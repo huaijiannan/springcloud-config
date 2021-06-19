@@ -1,2 +1,2 @@
-test:
-  type:dev 
+config:
+  info: "main-dev-info version 1.0" 
